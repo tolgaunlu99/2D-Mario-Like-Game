@@ -2,7 +2,7 @@
 A challenging 2D platformer inspired by Mario – dodge saws, spikes, and the Mask Dude to reach the flag and collect cherries!
 # Just in Time Games – 2D Mario-Inspired Platformer
 
-This is a 2D platformer game built as a final project for CENG 454. It draws inspiration from classic Mario-style games but ramps up the difficulty with unique threats and agile mechanics that demand fast reflexes and strategy.
+This is a 2D platformer game built as a final project for CENG 454. It draws inspiration from classic Mario-style games but ramps up the difficulty with unique threats and agile mechanics that demand fast reflexes and strategy
 
 ## 🎮 Game Overview
 
